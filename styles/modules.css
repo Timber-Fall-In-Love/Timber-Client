@@ -15,6 +15,16 @@
   text-align: center;
 }
 
+#sign-in {
+  width: 50%;
+  height: 30%;
+  background-color: rgba(54, 58, 59, 0.89);
+  border-radius: 10px;
+  display: flex;
+}
+
+
+
 
 .btn {
   margin-top: 10%;
@@ -30,6 +40,13 @@
   color: rgba(255, 255, 255, 0.329);
   box-shadow: none;
   outline: none;
+}
+
+#sign-in button {
+  /* border-color: white; */
+  color: rgb(255, 255, 255);
+  width: 40%;
+  margin: 0 auto;
 }
 
 .btn:hover {
